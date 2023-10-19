@@ -1,0 +1,135 @@
+header, footer{
+    background-color: #E6E6E6;
+    min-height: 10vh;
+}
+
+.img-fluid{
+    
+}
+
+.img-fluid1{
+    width: 50%;
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.masthead{
+    background-size: cover;
+    min-height: 10vh;
+}
+
+.color-overlay{
+    position: relative;
+    bottom: 130px;
+    right: 500px;
+    min-height: 60vh;
+}
+
+.color-overlay1{
+    position: relative;
+    bottom: 470px;
+    right: 700px;   
+}
+.color-overlay2{
+    position: relative;
+    bottom: 470px;
+    left: 400px;
+    width: 30vh;
+}
+
+.color-overlay3{
+    position: relative;
+    bottom: 506px;
+    left: 660px;
+    width: 80vh;
+}
+
+.color-overlay4{
+    position: relative;
+    bottom: 400px; 
+}
+
+.color-overlay5{
+    position: relative;
+    bottom: 400px; 
+
+}.color-overlay6{
+    position: relative;
+    bottom: 400px; 
+}
+
+.color-overlay7{
+    position: relative;
+    bottom: 350px;
+    left: 660px;
+     
+}
+
+.color-overlay8{
+    position: relative;
+    bottom: 400px;
+    right: 660px; 
+}
+
+.color-overlay9{
+    position: relative;
+    bottom: 430px; 
+}
+
+.color-overlay10{
+    position: relative;
+    bottom: 360px; 
+}
+.color-overlay10{
+    position: relative;
+    bottom: 350px; 
+}
+
+
+.color-overlay12{
+    position: relative;
+    bottom: 390px; 
+    left: 10px;
+}
+
+.comment1{
+    position: relative;
+    bottom: 350px;
+    left: 830px;
+    
+}
+
+.comment2{
+    position: relative;
+    bottom: 400px;
+    left: 1450px;
+    
+}
+
+.comment3{
+    position: relative;
+    bottom: 550px;
+    left: 180px;
+    
+}
+
+.formulaire{
+    position: relative;
+    bottom: 450px;
+    left: 560px;
+    
+}
+
+.form-control1{
+    width: 60vh;
+}
+
+h5{
+    font-size: 4rem;
+}
+main{
+    background-color: #F2F2F2;
+    min-height: 80vh;
+}
